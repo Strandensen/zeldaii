@@ -32,7 +32,7 @@ Questions to answer:
 
 What I would like to do is to redraw the map so that the original Zelda took place all within the vicinity of Death Mountain, so the new game will simply be a broader picture of Hyrule, rather than a completely different one.
 
-I would also like to make the palaces more distinct (and possibly have a more navigable layout; not sure how to do that yet, though). This game needs a map system. What if maps of the palaces are hidden in nearby towns?
+I would also like to make the palaces more distinct (and possibly have a more navigable layout; not sure how to do that yet, though). This game needs a map system. Maps of the palaces are hidden in nearby towns! Speaking of, the towns need to have more personality, too, incorporating features of the nearby geography.
 
 # Weapons
 
@@ -40,7 +40,7 @@ Link’s sword was a complete joke in the Zelda II. I’d like to use the same m
 
 More D&D style stats/hit calculations?
 
-The "sword" meter upgrade in the original game should be changed to simply “power” meter upgrade, perhaps affecting base hit calculations and/or hit frequency.
+The "sword" meter upgrade in the original game should be changed to simply “power” meter upgrade, perhaps affecting base hit calculations for all attacks.
 
 ## Bow
 
