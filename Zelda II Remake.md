@@ -4,7 +4,7 @@ The Legend of Zelda II (NES/SNES?)
 
 # Overview
 
-So after reading about [Zelda II: The Adventure of Link](https://en.wikipedia.org/wiki/Zelda_II:_The_Adventure_of_Link), it turns out the "Legend" isn’t about the Zelda that Link saves in the first one, but about an ancient princess put under a sleeping spell (whom Link saves in the second game). But I think it would be cool to tell the story of *that* Zelda, where she is the protagonist.
+So after reading about [Zelda II: The Adventure of Link](https://en.wikipedia.org/wiki/Zelda_II:_The_Adventure_of_Link), it turns out the "Legend" isn’t about the Zelda that Link saves in the first one, but about an ancient princess put under a sleeping spell (whom Link saves in this second game). But I think it would be cool to tell the story of *that* Zelda, where she is the protagonist.
 
 OR, what if we did a hack of Zelda II on the NES, changing the protagonist to be *Zelda*, trying to save a sleeping *Link*! I always wanted to change the game to incorporate Link using arrows and boomerangs, and I think it would make a lot more sense to have a focus on magic and ranged weapons if Zelda is the protagonist. How hard is it to create our own sprites, and then to import them into the game? Probably pretty hard :-)
 
@@ -18,21 +18,38 @@ One final note: I think I want to change as little as possible about the game (a
 
 **Original Story:** http://www.zeldadungeon.net/wiki/The_Adventure_of_Link_Story
 
-In the aftermath of the first Legend of Zelda, Link falls prey to Ganon’s Curse (perhaps placed on the red ring you find in the final dungeon). He falls into a deep sleep, and none know how long he will last. Zelda embarks on a quest to banish Ganon’s curse and awaken Link.
+**Our Story:** In the aftermath of the first Legend of Zelda, Link falls prey to Ganon’s Curse (perhaps placed on the red ring you find in the final dungeon). He falls into a deep sleep, and none know how long he will last. Zelda embarks on a quest to banish Ganon’s curse and awaken Link.
 
 Unbeknownst to Zelda, Ganon’s followers implement a plan to bring him back (this is a mystery that is uncovered as you play). It becomes clear that Ganon’s return depends on Link’s survival, and so in the end Zelda (perhaps after winning the Triforce of Wisdom) makes the hard decision to let Link die so that Ganon cannot be revived.
 
 Questions to answer:
 
-* What do the palaces and the gems have to do with anything?
+* What do the palaces and the gems have to do with anything? They should connect with banishing the curse *and* the triforce in interesting, logical, and surprising ways.
 
 * Even more basic, what are the palaces? Why are there monsters guarding the statues? What does this tell us about Hyrule?
 
+
+# Clothes/Armor
+
+I think it would be cool if Zelda wore a cloak (which would be much easier to implement on SNES hardware). Also, it would be sweet if she started out wearing all white, and then as the game went on her clothes got dirtier and dirtier.
+
+
+# Items/Spells
+
+In the original game most items only get used once or twice, and some critical later spells the same. So one improvement would be to have the items/spells more generally useful, especially in finding secrets.
+
+
 # Maps
 
-What I would like to do is to redraw the map so that the original Zelda took place all within the vicinity of Death Mountain, so the new game will simply be a broader picture of Hyrule, rather than a completely different one.
+What I would like to do is to redraw the map so that the original Zelda took place all within the vicinity of Death Mountain, so the new game will simply be a broader picture of Hyrule, rather than a completely different one. The fact that there are no villages in the first one makes this much easier.
 
 I would also like to make the palaces more distinct (and possibly have a more navigable layout; not sure how to do that yet, though). This game needs a map system. Maps of the palaces are hidden in nearby towns! Speaking of, the towns need to have more personality, too, incorporating features of the nearby geography.
+
+
+# Music
+
+I want to remix the original music, keeping key melodies and motifs while expanding upon and diversifying them. In particular I'd like each town and palace each to have their own 'flair' on the basic town or palace melodies. Ideally these 'flairs' would resonate thematically/emotionally with what's unique about the town or palace. Maybe the towns could have something higher on top of the base town theme, while the palaces could have a modified bass line?
+
 
 # Weapons
 
@@ -66,9 +83,6 @@ The "sword" meter upgrade in the original game should be changed to simply “po
 
 * **Spear**: This could be really cool. A bit stronger, and with better range. Also really cool to implement the upthrust/downthrust with this weapon. It already exists as a weapon later enemies use.
 
-# Clothes/Armor
-
-I think it would be cool if Zelda wore a cloak (which would be much easier to implement on SNES hardware). Also, it would be sweet if she started out wearing all white, and then as the game went on her clothes got dirtier and dirtier; perhaps different garments could "dirty" at different rates in different environments!
 
 # SNES Sprite Requirements
 
